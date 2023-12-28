@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapy12
 - 👀 I’m interested in coding and software development, especially video game development.
-- 🌱 I’m currently learning video game development and Java.
+- 🌱 I’m currently learning Java and video game development on UE5.
 - 💾 I have some experience on Python and C++.
 
 <!---
